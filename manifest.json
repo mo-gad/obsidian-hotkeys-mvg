@@ -1,0 +1,9 @@
+{
+  "id": "hotkeys-mvg",
+  "name": "Hotkeys (mvg)",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Personal editor hotkeys: delete line, duplicate line up/down",
+  "author": "Mohit Gadkari",
+  "isDesktopOnly": false
+}
